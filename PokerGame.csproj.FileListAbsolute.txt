@@ -1,0 +1,12 @@
+C:\Users\Itautec\Documents\Visual Studio 2017\Projects\PokerGame\bin\Debug\PokerGame.exe.config
+C:\Users\Itautec\Documents\Visual Studio 2017\Projects\PokerGame\bin\Debug\PokerGame.exe
+C:\Users\Itautec\Documents\Visual Studio 2017\Projects\PokerGame\bin\Debug\PokerGame.pdb
+C:\Users\Itautec\Documents\Visual Studio 2017\Projects\PokerGame\obj\Debug\PokerGame.csprojResolveAssemblyReference.cache
+C:\Users\Itautec\Documents\Visual Studio 2017\Projects\PokerGame\obj\Debug\PokerGame.TelaInicial.resources
+C:\Users\Itautec\Documents\Visual Studio 2017\Projects\PokerGame\obj\Debug\PokerGame.Properties.Resources.resources
+C:\Users\Itautec\Documents\Visual Studio 2017\Projects\PokerGame\obj\Debug\PokerGame.TelaJogo.resources
+C:\Users\Itautec\Documents\Visual Studio 2017\Projects\PokerGame\obj\Debug\PokerGame.csproj.GenerateResource.Cache
+C:\Users\Itautec\Documents\Visual Studio 2017\Projects\PokerGame\obj\Debug\PokerGame.exe
+C:\Users\Itautec\Documents\Visual Studio 2017\Projects\PokerGame\obj\Debug\PokerGame.pdb
+C:\Users\Itautec\Documents\Visual Studio 2017\Projects\PokerGame\obj\Debug\PokerGame.TelaFInal2.resources
+C:\Users\Itautec\Documents\Visual Studio 2017\Projects\PokerGame\obj\Debug\PokerGame.TelaFinal1.resources
