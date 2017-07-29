@@ -1,4 +1,4 @@
 # PokerGame
 Avaliação .NET
 
-DESENVOLVEDOR Luiz Carlos T.B Junior \ 2017\
+DESENVOLVIDO POR:  Luiz Carlos T.B Junior \ 2017\
